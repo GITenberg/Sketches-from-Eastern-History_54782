@@ -1,16 +1,21 @@
 _repo: Sketches-from-Eastern-History_54782
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Black, John Sutherland
     gutenberg_agent_id: '48041'
     url: http://www.gutenberg.org/2009/agents/48041
+covers:
+- cover_type: archival
+  image_path: 54782-h/images/cover.jpg
 creator:
   author:
     agent_name: Nöldeke, Theodor
     gutenberg_agent_id: '48040'
     url: http://www.gutenberg.org/2009/agents/48040
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54782#Sketches-from-Eastern-History
 gutenberg_issued: '2017-05-25'
 gutenberg_type: Text
 identifiers:
